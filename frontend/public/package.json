@@ -1,7 +1,7 @@
 {
   "name": "ppop-frontend",
-  "version": "1.0.0",
   "private": true,
+  "version": "0.1.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -10,18 +10,16 @@
   },
   "dependencies": {
     "next": "14.2.5",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "recharts": "^3.5.1"
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "recharts": "^2.12.7"
   },
   "devDependencies": {
-    "@types/node": "^20.14.0",
-    "@types/react": "^18.2.37",
-    "autoprefixer": "^10.4.16",
-    "eslint": "^8.57.0",
-    "eslint-config-next": "14.2.5",
-    "postcss": "^8.4.31",
-    "tailwindcss": "^3.4.0",
-    "typescript": "^5.5.0"
+    "typescript": "^5.4.5",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "tailwindcss": "^3.4.4",
+    "postcss": "^8",
+    "autoprefixer": "^10"
   }
 }
